@@ -1,5 +1,5 @@
 # HECO
-Several machine learning and deep learning method for household electricity consumption prediction.
+Several machine learning and deep learning methods for household electricity consumption prediction.
 
 # Requirements
 Dependent libraries are placed in a file named 'requirements.txt'.
