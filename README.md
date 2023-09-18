@@ -9,5 +9,5 @@ Dependent libraries are placed in a file named 'requirements.txt'.
 2. Run 'Result_process.py' to generate graphs about forecasting results.
 
 # License
-If you need to use it, please star and fork first. The source code is free for research and education use only. Any commercial use should get formal permission first.
+If you want to use it, please star and fork first. The source code is free for research and education use only. Any commercial use should get formal permission first.
      
